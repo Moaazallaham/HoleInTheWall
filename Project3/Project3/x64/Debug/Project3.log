@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\moaaz\source\repos\project3\project3\source.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moaaz\source\repos\project3\project3\source.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moaaz\source\repos\project3\project3\source.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moaaz\source\repos\project3\project3\source.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\moaaz\source\repos\Project3\x64\Debug\Project3.exe
